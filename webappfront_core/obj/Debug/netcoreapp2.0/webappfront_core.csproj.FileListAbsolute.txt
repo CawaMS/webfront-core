@@ -1,0 +1,11 @@
+C:\Users\cawa\source\repos\webappfront_core\webappfront_core\bin\Debug\netcoreapp2.0\webappfront_core.deps.json
+C:\Users\cawa\source\repos\webappfront_core\webappfront_core\bin\Debug\netcoreapp2.0\webappfront_core.runtimeconfig.json
+C:\Users\cawa\source\repos\webappfront_core\webappfront_core\bin\Debug\netcoreapp2.0\webappfront_core.runtimeconfig.dev.json
+C:\Users\cawa\source\repos\webappfront_core\webappfront_core\bin\Debug\netcoreapp2.0\webappfront_core.dll
+C:\Users\cawa\source\repos\webappfront_core\webappfront_core\obj\Debug\netcoreapp2.0\webappfront_core.csprojResolveAssemblyReference.cache
+C:\Users\cawa\source\repos\webappfront_core\webappfront_core\obj\Debug\netcoreapp2.0\webappfront_core.csproj.CoreCompileInputs.cache
+C:\Users\cawa\source\repos\webappfront_core\webappfront_core\obj\Debug\netcoreapp2.0\webappfront_core.AssemblyInfoInputs.cache
+C:\Users\cawa\source\repos\webappfront_core\webappfront_core\obj\Debug\netcoreapp2.0\webappfront_core.AssemblyInfo.cs
+C:\Users\cawa\source\repos\webappfront_core\webappfront_core\bin\Debug\netcoreapp2.0\webappfront_core.pdb
+C:\Users\cawa\source\repos\webappfront_core\webappfront_core\obj\Debug\netcoreapp2.0\webappfront_core.dll
+C:\Users\cawa\source\repos\webappfront_core\webappfront_core\obj\Debug\netcoreapp2.0\webappfront_core.pdb
