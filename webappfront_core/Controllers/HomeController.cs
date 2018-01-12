@@ -16,7 +16,7 @@ namespace webappfront_core.Controllers
         {
             HttpClient client = new HttpClient();
             // client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
-            HttpResponseMessage response = await client.GetAsync("http://sfoneappdemo2.centralus.cloudapp.azure.com:8081/api/StatelessBackendService/");
+            HttpResponseMessage response = await client.GetAsync("your_URL");
             if (response.StatusCode != System.Net.HttpStatusCode.OK)
             {
                 throw new Exception("500 Internal Server Error occurred");
